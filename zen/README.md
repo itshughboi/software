@@ -1,5 +1,6 @@
 # Zen Commands
 
+```
 Ctrl + Option + C  = Display/Hide compact mode
 Ctrl + Option + S  = show sidebar
 Ctrl + Shift + S = save page snippet
@@ -17,3 +18,5 @@ Ctrl + <- = Backwards
 Ctrl + Option + V = Vertical Split
 Ctrl + Option + H = Horizontal Split
 Ctrl + Optino + U = Unsplit view
+```
+

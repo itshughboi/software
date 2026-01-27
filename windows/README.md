@@ -35,4 +35,8 @@ Oh my Posh + Zsh
 2. BG3 Mod Manager
 3. Cemu
 4. Dolphin
+5. Citra Nightly
+6. DeSmuME
+7. mGBA
+8. yuzu
 

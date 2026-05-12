@@ -43,12 +43,15 @@
 43. Steam
 44. TreeSize
 45. Visual Studio Code
-46. 
+46. Winbox
+47. XMrig
+48. Feather
 
 
 ### Terminal Setup
 Oh my Posh + Zsh
 - Zoxide
+- JetBrains Font
 
 
 ### Gaming
@@ -62,9 +65,10 @@ Oh my Posh + Zsh
 8. mGBA
 9. yuzu
 10. Cheat Engine
-11. Nolvus
-12. OpenIV
-13. ReShade
-14. Runelite
-15. Sunshine
-16. Vortex
+11. ludusavi
+12. Nolvus
+13. OpenIV
+14. ReShade
+15. Runelite
+16. Sunshine
+17. Vortex
